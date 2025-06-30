@@ -43,7 +43,7 @@ This study contributes to the emerging discourse on inclusive metrics in softwar
 
 If you use or refer to this work, please cite it as:
 
-[Author Name]. (2025). Beyond Code: Understanding How Traditional Productivity Metrics Overlook Women in Software Engineering. [Bachelor's Thesis, CESAR School].
+[Seabra, L]. (2025). Beyond Code: Understanding How Traditional Productivity Metrics Overlook Women in Software Engineering. [Bachelor's Thesis, CESAR School].
 
 ## 🙋‍♀️ Author
 
